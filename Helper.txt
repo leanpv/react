@@ -1,0 +1,10 @@
+Babel permite utilizar caracteristicas actuales de EcmaScript en navegadores que aun no las soportan. Es un compilador de JS
+
+rafcp crea un fc con proptypes
+Proptypes definen los typos de datos que interactuan entre comps
+
+npx create-react-app gif-expert-app
+crear app de react
+
+
+
